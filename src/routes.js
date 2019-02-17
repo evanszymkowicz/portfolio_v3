@@ -13,8 +13,8 @@ export default function createRoutes(store, history) {
       <div>
         <App>
           <Route exact path="/" component={BriefAbout} />
-          <Route path="/projects" component={Projects} />
-          <Route path="/aboutMe" component={AboutMe} />
+          <Route path="/AboutMe" component={AboutMe} />
+          <Route path="/Projects" component={Projects} />
           <Route path="/Journalism" component={Journalism} />
         </App>
       </div>
