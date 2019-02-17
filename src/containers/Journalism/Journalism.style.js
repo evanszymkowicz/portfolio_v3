@@ -3,7 +3,7 @@ import { Flex, Div, Absolute } from 'theme/grid';
 import { red } from 'theme/variables';
 import media from 'theme/media';
 
-export const TutorialContainer = styled(Flex)`
+export const JournalismContainer = styled(Flex)`
   padding: 1em 0;
   ${media.phone`
     flex-direction: column;

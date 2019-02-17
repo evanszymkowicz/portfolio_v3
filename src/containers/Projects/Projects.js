@@ -72,4 +72,4 @@ const tutorials = [
 ];
 
 
-export default Tutorial;
+export default Projects;

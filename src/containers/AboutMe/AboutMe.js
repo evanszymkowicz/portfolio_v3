@@ -257,7 +257,7 @@ class AboutMe extends Component {
                 <WaypointShow>
                   {({ show }) =>
                     <LeftP className={c({ hide: !show })}>
-                      <span>I am a huge sports fan. I have been a reporter for television and print outlets of all sizes. More about that later! </span>
+                      <span>I am a huge sports fan. I have been a reporter at both the college and professional level. More about that later! </span>
                     </LeftP>
                   }
                 </WaypointShow>
