@@ -16,7 +16,7 @@ class Journalism extends Component {
           <li>Big Ten basketball</li>
           <li>Professional tennis & golf</li>
         </ol>
-        {Journalisms.map(({ url, thumbnail, description, title, index }, i) =>
+        {places.map(({ url, thumbnail, description, title, index }, i) =>
           <JournalismContainer key={i}>
             <Thumbnail target="_blank" href={url}>
               <Relative>
@@ -40,7 +40,7 @@ class Journalism extends Component {
   }
 }
 
-const Journalisms = [
+const places = [
   {
     index: 'JP',
     title: 'The Jerusalem Post',

@@ -22,24 +22,8 @@ export const Thumbnail = styled.a`
   img.thumbnail {
     width: 100%;
   }
-  img.youtubePlayButton {
-    position: absolute;
-    z-index: 1;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 30%;
-    opacity: 0.7;
-    transition: opacity .3s;
-  }
-  &:hover {
-    img.youtubePlayButton {
-      opacity: 1;
-    }
-  }
-`;
 
-export const DescriptionContainer = styled(Div)`
+export const JournalismContainer = styled(Div)`
   margin-left: 1.5em;
   & > h4 {
     margin-top: 0;

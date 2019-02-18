@@ -12,7 +12,7 @@ import ContactForm from 'components/ContactForm/ContactForm';
 import WaypointShow from 'components/WaypointShow/WaypointShow';
 import { color3, color5 } from 'theme/variables';
 import ReactPlayer from 'react-player';
-import { MusicPlayerContainer, PlayButton, StyledClickHereCircle, ThumbnailWrapper, ThumbnailNumber, ThumbnailTitle, Thumbnail, StyledVideoBlock, LeftP, RightP, AudioLine, Pointer, NormalImageStuff, ThumbnailCanvas } from './AboutMe.styles';
+import { MusicPlayerContainer, PlayButton, StyledClickHereCircle, ThumbnailWrapper, ThumbnailNumber, ThumbnailTitle, Thumbnail, StyledVideoBlock, LeftP, RightP, AudioLine, Pointer, NormalImageStuff, ThumbnailCanvas } from './AboutMe.style';
 import { Motion, spring } from 'react-motion';
 
 const NEXT_STEP = 'aboutMe/NEXT_STEP';
