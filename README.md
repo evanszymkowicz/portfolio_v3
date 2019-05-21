@@ -1,8 +1,12 @@
 # portfolio_v3
 Clean copy to squash some bugs
 
-## Feb 18
-My website is having a few bugs and I wanted to make a few changes to the appearance. Looks like the updated version of CRA is kicking out some errors. Working on those now.
+## Some photos for posterity as I move to a new site:
+![Loading Page](public/loadingpage.png)
+![Fun Personal Stuff](public/journalism.png)
+![Contact Form](public/contact.png)
+![Favorite Podcasts/More Personal Stuff](public/podcasts.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
