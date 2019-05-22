@@ -1,12 +1,15 @@
 # portfolio_v3
+
 Clean copy to squash some bugs
 
 ## Some photos for posterity as I move to a new site:
+
 ![Loading Page](public/loadingpage.png)
+![Home Page](public/homepage.png)
+![Footer](public/footer.png)
 ![Fun Personal Stuff](public/journalism.png)
 ![Contact Form](public/contact.png)
 ![Favorite Podcasts/More Personal Stuff](public/podcasts.png)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
